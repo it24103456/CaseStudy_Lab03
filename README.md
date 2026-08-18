@@ -1,3 +1,3 @@
 "# Repository Management Lab" 
--- newline --
+-- resolved newline combining main and feature --
 
